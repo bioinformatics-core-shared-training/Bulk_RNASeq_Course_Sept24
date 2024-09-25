@@ -1,5 +1,5 @@
 # Introduction to Bulk RNA-seq data analysis
-### 21st, 24th, 25th June 2024
+### 2nd, 3rd, 4th Oct 2024
 #### In person
 #### Bioinformatics Training Facility, Craik-Marshall Building, Downing Site, University of Cambridge
 
@@ -7,14 +7,12 @@
 
 ## Instructors
 
-* Abbi Edwards - Bioinformatics Core, Cancer Research UK Cambridge Institute
-* Ash Sawle - Bioinformatics Core, Cancer Research UK Cambridge Institute
-* Bajuna Salehe - Bioinformatics Training
-* Betty Wang - Dpt Clinical Neurosciences, Cambridge
-* Jiayin Hong - Dpt Biochemistry, Cambridge
-* Jon Price - Dpt Biochemistry, Cambridge
-* Rui Guan - MRC Toxicology, Cambridge
-
+* Ashley Sawle (CRUK Cambridge Institute)
+* Abbi Edwards (CRUK Cambridge Institute)
+* Betty Wang (Dpt Clinical Neurosciences, University of Cambridge)
+* Ian Tsang (NIAB)
+* Jiayin Hong (Dpt Biochemistry, University of Cambridge)
+* Ramy Ragheb (Stem Cell Institute, University of Cambridge)
 
 ## Outline
 
@@ -42,7 +40,7 @@ differential expression analysis of RNA-seq data.
 
 ### Day 1
 
-**Trainers:** Abbi, Bajuna, Betty, Jon, Rui
+**Trainers:** Ash, Abbi, Betty, Ian, Ramy
 
 9:30 - 9:45 - [Welcome](https://docs.google.com/presentation/d/13mwQfPCpYzj0iz5EyTQHXRd1KNwfds2ILdY8EiK2020/edit?usp=sharing)! - Bajuna/Hugo
 
@@ -51,29 +49,29 @@ differential expression analysis of RNA-seq data.
 10:15 - 11:00 [Raw read file format and QC](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.html) - Jon
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html)
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.html)
+  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.Solutions.html) -->
 
 11:00 - 13:30 [Alignment and Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_introduction.html) - Abbi
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_practical.html)  
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_practical.Solutions.html) 
+  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_practical.Solutions.html) -->
 
 13:30 - 14:30 Lunch
 
 14:30 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_introduction.html) - Abbi
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.pdf))  
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_COntrol_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.Solutions.pdf))
+  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.Solutions.pdf)) -->
 
 15.30 - 17.30 [Data Exploration in R](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.pdf)) - Rui
 
-  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.Solutions.pdf))
-  - [Live Script](live_scripts/20240621_initial_exploration.R)
+  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.Solutions.pdf)) -->
+  <!-- - [Live Script](live_scripts/20240621_initial_exploration.R) -->
 
 
 ### Day 2
 
-**Trainers:** Abbi, Ash, Bajuna, Betty, Jiayin
+**Trainers:** Ash, Abbi (AM), Ian, Ramy
 
 9:30 - 10:15  [Introduction to RNAseq Analysis in R](Bulk_RNAseq_Course_Base/Markdowns/06_Introduction_to_RNAseq_Analysis_in_R.html) - Jiayin
 
@@ -83,8 +81,8 @@ differential expression analysis of RNA-seq data.
 
   -  [Linear Models in R and DESeq2 (Worksheet)](Bulk_RNAseq_Course_Base/Markdowns/07_Linear_Models.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/07_Linear_Models.pdf))  
   - [Practical - Differential Expression for RNA-seq](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.pdf)) - Ash/Abbi
-  - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.Solutions.pdf))
-  - [live script](live_scripts/DESeq2_script.R) 
+  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.Solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/08_DE_analysis_with_DESeq2.Solutions.pdf)) -->
+  <!-- - [live script](live_scripts/DESeq2_script.R)  -->
   - [DESeq2 results extraction cheatsheet](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/DESeq2_results_cheatsheet.pdf)
   - [extra models plots](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Expl_all.pdf)
 
@@ -94,20 +92,20 @@ differential expression analysis of RNA-seq data.
 
 ### Day 3
 
-**Trainers:** Ash, Bajuna, Jon, Jiayin
+**Trainers:** Ash, Ian, Jiayin, Ramy
 
 9.30 - 9.45 - [Recap of Day 1 and 2](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Analysis_of_RNA-seq_data_day3recap.pdf) - Ash
 
 9.45 - 12.30 [Annotation and Visualisation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation.html) - Jiayin
-<!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation_Solutions.html) -->
-<!-- - [live script](live_scripts/Live_script_Ulrika.R) -->
+  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation_Solutions.html) -->
+  <!-- - [live script](live_scripts/visualisation.R) -->
 
 12.30 - 13.30 Lunch
 
 13.30 - 16:30  [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing_introduction.html) - Jon
    - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.pdf)
-<!--   - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.Solutions.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.Solutions.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.Solutions.pdf) -->
-<!--   - [Live Script](live_scripts/GeneSetTesting.R) -->
+  <!-- - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.Solutions.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.Solutions.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.Solutions.pdf) -->
+  <!-- - [Live Script](live_scripts/gene_set_testing.R) -->
 
 
 ## Data, software and materials
@@ -116,7 +114,7 @@ The lecture slides and other source materials, including R code and
 practical solutions, can be found in the course's [Github
 repository](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_March23)
 
-The full data used in the course can be [downloaded from dropbox](https://www.dropbox.com/sh/sz44que2vha44xw/AABISE1DdBSS6s_zLoW1vuCGa?dl=0). 
+The full data used in the course can be [downloaded from dropbox](https://www.dropbox.com/sh/sz44que2vha44xw/AABISE1DdBSS6s_zLoW1vuCGa?st=z95zfjyg&dl=0). 
 
 Instructions to install software are available from the "[Software installation instructions](Bulk_RNAseq_Course_Base/Markdowns/setup.html)" page.
 
@@ -148,19 +146,19 @@ Dashnow, Charity Law.
 The materials have been rewritten/modified/corrected/updated by various
 contributors over the past 5 years including:
 
-Abigail Edwards
-Ashley D Sawle
-Chandra Chilamakuri
-Dominique-Laurent Couturier
-Guillermo Parada González
-Hugo Tavares
-Jon Price
-Mark Dunning
-Mark Fernandes
-Oscar Rueda
-Sankari Nagarajan
-Stephane Ballereau
-Tom Smith
-Zeynep Kalender Atak
+Abigail Edwards  
+Ashley D Sawle  
+Chandra Chilamakuri  
+Dominique-Laurent Couturier  
+Guillermo Parada González  
+Hugo Tavares  
+Jon Price  
+Mark Dunning  
+Mark Fernandes  
+Oscar Rueda  
+Sankari Nagarajan  
+Stephane Ballereau  
+Tom Smith  
+Zeynep Kalender Atak  
 
 Apologies if we have missed anyone!
