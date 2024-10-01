@@ -99,8 +99,8 @@ differential expression analysis of RNA-seq data.
 9:45 - 11:00 [Annotation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation.html) - Ash
   <!-- - [live script](live_scripts/visualisation.R) -->
 
-11:00 - 12.30 [Visualisation differential expression results](Bulk_RNAseq_Course_Base/Markdowns/10_Visualisation.html) - Jiayin
-  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_Visualisation_solutions.html) -->
+11:00 - 12.30 [Visualisation differential expression results](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation.html) - Jiayin
+  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation_solutions.html) -->
   <!-- - [live script](live_scripts/visualisation.R) -->
 
 12.30 - 13.30 Lunch
