@@ -96,19 +96,18 @@ differential expression analysis of RNA-seq data.
 
 9:30 - 9:45 - [Recap of Day 1 and 2](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Analysis_of_RNA-seq_data_day3recap.pdf) - Ash
 
-9:45 - 11:00 [Annotation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation.html) - Ash
-  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation_solutions.html) -->
+9:45 - 11:00 [Annotation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation.html) - Ash
   <!-- - [live script](live_scripts/visualisation.R) -->
 
-11:00 - 12.30 [Visualisation differential expression results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation.html) - Jiayin
-  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_and_Visualisation_solutions.html) -->
+11:00 - 12.30 [Visualisation differential expression results](Bulk_RNAseq_Course_Base/Markdowns/10_Visualisation.html) - Jiayin
+  <!-- - [practical solutions](Bulk_RNAseq_Course_Base/Markdowns/10_Visualisation_solutions.html) -->
   <!-- - [live script](live_scripts/visualisation.R) -->
 
 12.30 - 13.30 Lunch
 
-13.30 - 16:30  [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing_introduction.html) - Ian
-   - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing.pdf)
-  <!-- - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing_solutions.html) [(rmd)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing_solutions.Rmd) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/10_Gene_set_testing_solutions.pdf) -->
+13.30 - 16:30  [Gene-set testing](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_introduction.html) - Ian
+   - [Practical (html)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing.html) [(pdf)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing.pdf)
+  <!-- - [Practical solutions (html)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.html) (pdf)](Bulk_RNAseq_Course_Base/Markdowns/11_Gene_set_testing_solutions.pdf) -->
   <!-- - [Live Script](live_scripts/gene_set_testing.R) -->
 
 
