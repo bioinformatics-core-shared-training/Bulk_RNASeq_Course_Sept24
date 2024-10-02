@@ -49,21 +49,21 @@ differential expression analysis of RNA-seq data.
 10:15 - 11:00 [Raw read file format and QC](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_introduction.html) - Betty
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html)
-  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_solutions.html) -->
+  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_solutions.html)
 
 11:00 - 13:30 [Alignment and Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_introduction.html) - Hugo
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_practical.html)  
-  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_solutions.html) -->
+  - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_solutions.html)
 
 13:30 - 14:30 Lunch
 
 14:30 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_introduction.html) - Abbi
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.pdf))  
-  <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.pdf)) -->
+   - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.pdf))
 
-15.30 - 17.30 [Data Exploration in R](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_Slides.html) - Ian / Abbi
+15.30 - 17.30 [Data Exploration in R](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_Slides.html) - Ian
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.pdf))
   <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.pdf)) -->
