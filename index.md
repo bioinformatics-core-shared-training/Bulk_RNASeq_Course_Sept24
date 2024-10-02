@@ -40,7 +40,7 @@ differential expression analysis of RNA-seq data.
 
 ### Day 1
 
-**Trainers:** Ash, Abbi, Betty, Ian, Ramy
+**Trainers:** Abbi, Betty, Ian, Ramy, Hugo
 
 9:30 - 9:45 - [Welcome](https://docs.google.com/presentation/d/13mwQfPCpYzj0iz5EyTQHXRd1KNwfds2ILdY8EiK2020/edit?usp=sharing)! - Bajuna
 
@@ -51,20 +51,21 @@ differential expression analysis of RNA-seq data.
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html)
   <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_solutions.html) -->
 
-11:00 - 13:30 [Alignment and Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_introduction.html) - Ash
+11:00 - 13:30 [Alignment and Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_introduction.html) - Hugo
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_practical.html)  
   <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_solutions.html) -->
 
 13:30 - 14:30 Lunch
 
-14:30 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_introduction.html) - Ash
+14:30 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_introduction.html) - Abbi
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_practical.pdf))  
   <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_solutions.pdf)) -->
 
-15.30 - 17.30 [Data Exploration in R](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.pdf)) - Ian / Abbi
+15.30 - 17.30 [Data Exploration in R](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_Slides.html) - Ian / Abbi
 
+  - [Practical](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration.pdf))
   <!-- - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.html) ([pdf](Bulk_RNAseq_Course_Base/Markdowns/05_Data_Exploration_solutions.pdf)) -->
   <!-- - [Live Script](live_scripts/20240621_initial_exploration.R) -->
 
