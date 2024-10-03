@@ -97,7 +97,8 @@ differential expression analysis of RNA-seq data.
 
 9:30 - 9:45 - [Recap of Day 1 and 2](Bulk_RNAseq_Course_Base/additional_scripts_and_materials/Analysis_of_RNA-seq_data_day3recap.pdf) - Ash
 
-9:45 - 11:00 [Annotation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation.html) - Ash
+9:45 - 11:00 [Annotation of RNA-seq results](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation_Slides.html) - Ash. 
+  - [Practical](Bulk_RNAseq_Course_Base/Markdowns/09_Annotation.html)
   <!-- - [live script](live_scripts/visualisation.R) -->
 
 11:00 - 12.30 [Visualisation differential expression results](Bulk_RNAseq_Course_Base/Markdowns/10_Data_Visualisation_Slides.html) - Jiayin
